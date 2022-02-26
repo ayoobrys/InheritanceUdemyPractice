@@ -1,0 +1,19 @@
+body {
+    color: olivedrab;
+}
+
+h1 {
+    color: blueviolet;
+}
+
+section {
+    color: aqua;
+}
+
+form {
+    color: greenyellow;
+}
+
+button, input {
+    color: inherit;
+}
